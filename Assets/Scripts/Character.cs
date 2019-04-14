@@ -58,6 +58,7 @@ public abstract class Character : MonoBehaviour
         //Запускает метод Move()
         Move();  
         
+
     }
 
     /// <summary>
