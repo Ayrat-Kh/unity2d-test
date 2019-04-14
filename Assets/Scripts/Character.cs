@@ -58,11 +58,9 @@ public abstract class Character : MonoBehaviour
         //Запускает метод Move()
         Move();  
         
-<<<<<<< HEAD
         // fsdfds
-=======
+        
 
->>>>>>> add-space
     }
 
     /// <summary>
