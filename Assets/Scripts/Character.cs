@@ -56,7 +56,8 @@ public abstract class Character : MonoBehaviour
     protected virtual void FixedUpdate()
     {
         //Запускает метод Move()
-        Move();     
+        Move();  
+        
     }
 
     /// <summary>
